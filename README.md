@@ -14,7 +14,7 @@ The form validates the request and downloads a text file. When email is configur
 
 ## Deploy
 
-Upload the contents of `` to any static hosting provider, such as a static site service or your web host’s public folder. `index.html` must be at the root of the published directory. No environment variables or build command are required. Enable HTTPS through your host. Test the site URL on a phone, download a quote request, and test email and WhatsApp links after configuring them.
+Upload index.html, styles.css, app.js and config.js to any static hosting provider, such as a static site service or your web host’s public folder. `index.html` must be at the root of the published directory. No environment variables or build command are required. Enable HTTPS through your host. Test the site URL on a phone, download a quote request, and test email and WhatsApp links after configuring them.
 
 A private Sites preview may also be provided in the accompanying chat. Private hosting is visible only to its authorized owner until access is explicitly changed.
 
